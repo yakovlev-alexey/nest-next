@@ -1,5 +1,0 @@
-{
-  "watch": ["src/**/*", "../dto/src/**/*"],
-  "ext": "ts,tsx",
-  "exec": "ts-node ./src/main.ts"
-}
